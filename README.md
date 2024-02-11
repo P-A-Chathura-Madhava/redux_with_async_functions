@@ -67,6 +67,6 @@ In this projects a user can understand about applying async functions with Redux
 
 Chathura Madhava - [@https://www.linkedin.com/in/chathura-madhava-126465191/](https://www.linkedin.com/in/chathura-madhava-126465191/)
 
-Project Link: [https://github.com/P-A-Chathura-Madhava/redux_counter_by_amount.git](https://github.com/P-A-Chathura-Madhava/redux_counter_by_amount.git)
+Project Link: [https://github.com/P-A-Chathura-Madhava/redux_with_async_functions.git](https://github.com/P-A-Chathura-Madhava/redux_with_async_functions.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
